@@ -1,0 +1,31 @@
+_repo: Fant-me-d-Orient_30703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Julien
+    - Viaud, Louis Marie Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30703'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Istanbul (Turkey) -- History -- 19th century -- Fiction'
+- !lcc 'PQ'
+title: Fantôme d'Orient
+url: http://www.gutenberg.org/ebooks/30703
